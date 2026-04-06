@@ -1,6 +1,6 @@
 ## Sebastián Muñoz 
 
-**Estuandiate de Ingenieria Electronica**
+**Estudiante de Ingenieria Electronica**
 
 <!--
 **Sebtap/Sebtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
